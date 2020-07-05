@@ -6,6 +6,7 @@ public class ClassYeni {
 		System.out.println("ilk commit maserden");
 		System.out.println("ilk commit maserden");
 		System.out.println("bir deneme daha");
+		System.out.println("ilk confitim");
 
 	}
 
